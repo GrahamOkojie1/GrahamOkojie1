@@ -1,4 +1,4 @@
-<h1>Hi, I'm Graham! <br/><a href="https://github.com/GrahamOkojie1">Cloud Security Specialist</a>, <a href="https://www.linkedin.com/in/grahamokojie/">Cybersecurity Professional</a>.
+<h1>Hi, I'm Graham! <br/><a href="https://github.com/GrahamOkojie1">Cloud Security Specialist</a>, <a href="https://www.linkedin.com/in/grahamokojie/">Cybersecurity Analyst Professional</a>.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
